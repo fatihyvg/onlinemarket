@@ -1,0 +1,9 @@
+c:\users\fthy\documents\visual studio 2013\Projects\OnlineMarket\OnlineMarket\bin\OnlineMarket.dll.config
+c:\users\fthy\documents\visual studio 2013\Projects\OnlineMarket\OnlineMarket\bin\OnlineMarket.dll
+c:\users\fthy\documents\visual studio 2013\Projects\OnlineMarket\OnlineMarket\bin\OnlineMarket.pdb
+c:\users\fthy\documents\visual studio 2013\Projects\OnlineMarket\OnlineMarket\bin\JsonServices.dll
+c:\users\fthy\documents\visual studio 2013\Projects\OnlineMarket\OnlineMarket\bin\JsonServices.Web.dll
+c:\users\fthy\documents\visual studio 2013\Projects\OnlineMarket\OnlineMarket\bin\Newtonsoft.Json.dll
+c:\users\fthy\documents\visual studio 2013\Projects\OnlineMarket\OnlineMarket\obj\Debug\OnlineMarket.dll
+c:\users\fthy\documents\visual studio 2013\Projects\OnlineMarket\OnlineMarket\obj\Debug\OnlineMarket.pdb
+C:\Users\FTHY\documents\visual studio 2013\Projects\OnlineMarket\OnlineMarket\obj\Debug\OnlineMarket.csprojResolveAssemblyReference.cache
